@@ -1,8 +1,15 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { storage } from '../utils/storage';
 
 const Leaderboard = ({ currentUser, onBackToDashboard }) => {
-  const leaderboard = storage.getLeaderboard();
+  const [leaderboard, setLeaderboard] = useState([]);
+
+  useEffect(() => {
+    const data = storage.getLeaderboard();
+    console.log('Leaderboard data:', data);
+    console.log('All users:', storage.getUsers());
+    setLeaderboard(data);
+  }, []);
 
   const getRankIcon = (rank) => {
     switch (rank) {

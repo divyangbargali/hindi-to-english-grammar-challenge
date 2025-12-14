@@ -18,13 +18,29 @@ export const storage = {
     const users = storage.getUsers();
     const userIndex = users.findIndex(user => user.username === username);
     if (userIndex !== -1) {
-      users[userIndex].highestScore = Math.max(users[userIndex].highestScore || 0, score);
+      // Ensure highestScore exists and update it
+      if (!users[userIndex].highestScore) {
+        users[userIndex].highestScore = 0;
+      }
+      users[userIndex].highestScore = Math.max(users[userIndex].highestScore, score);
+      localStorage.setItem('users', JSON.stringify(users));
+    } else {
+      // If user doesn't exist in users array, create them
+      users.push({ username, password: '', highestScore: score });
       localStorage.setItem('users', JSON.stringify(users));
     }
   },
   
   // Session management
-  setCurrentUser: (username) => localStorage.setItem('currentUser', username),
+  setCurrentUser: (username) => {
+    localStorage.setItem('currentUser', username);
+    // Ensure user exists in users array
+    const users = storage.getUsers();
+    if (!users.find(user => user.username === username)) {
+      users.push({ username, password: '', highestScore: 0 });
+      localStorage.setItem('users', JSON.stringify(users));
+    }
+  },
   getCurrentUser: () => localStorage.getItem('currentUser'),
   logout: () => localStorage.removeItem('currentUser'),
   
@@ -32,7 +48,7 @@ export const storage = {
   getLeaderboard: () => {
     const users = storage.getUsers();
     return users
-      .filter(user => user.highestScore > 0)
+      .filter(user => user.highestScore && user.highestScore > 0)
       .sort((a, b) => (b.highestScore || 0) - (a.highestScore || 0));
   }
 };

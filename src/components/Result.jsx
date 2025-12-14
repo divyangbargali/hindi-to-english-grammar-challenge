@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Result = ({ result, onBackToDashboard }) => {
+const Result = ({ result, onBackToDashboard, onPlayAgain, onLogout }) => {
   const getScoreMessage = (score, total) => {
     const percentage = (score / total) * 100;
     
@@ -55,8 +55,14 @@ const Result = ({ result, onBackToDashboard }) => {
         </div>
 
         <div className="result-actions">
+          <button onClick={onPlayAgain} className="play-again-btn">
+            Play Again
+          </button>
           <button onClick={onBackToDashboard} className="back-dashboard-btn">
-            Back to Dashboard
+            View Dashboard
+          </button>
+          <button onClick={onLogout} className="logout-btn">
+            Logout
           </button>
         </div>
 

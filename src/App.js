@@ -34,9 +34,16 @@ function App() {
   };
 
   const handleGameComplete = (result) => {
+    console.log('Game completed:', { user: currentUser, score: result.score });
     storage.updateUserScore(currentUser, result.score);
+    console.log('Score updated, checking leaderboard:', storage.getLeaderboard());
     setGameResult(result);
     setCurrentView('result');
+  };
+
+  const handlePlayAgain = () => {
+    setGameResult(null);
+    setCurrentView('game');
   };
 
   const renderView = () => {
@@ -68,7 +75,14 @@ function App() {
       case 'game':
         return <Game onGameComplete={handleGameComplete} onBackToDashboard={() => setCurrentView('dashboard')} />;
       case 'result':
-        return <Result result={gameResult} onBackToDashboard={() => setCurrentView('dashboard')} />;
+        return (
+          <Result 
+            result={gameResult} 
+            onBackToDashboard={() => setCurrentView('dashboard')}
+            onPlayAgain={handlePlayAgain}
+            onLogout={handleLogout}
+          />
+        );
       case 'leaderboard':
         return <Leaderboard currentUser={currentUser} onBackToDashboard={() => setCurrentView('dashboard')} />;
       default:
