@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "hindiQuestion": "वह रोज़ स्कूल जाता है।",
+    "options": [
+      "He go to school daily.",
+      "He goes to school daily.",
+      "He going to school daily.",
+      "He gone to school daily."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "For third-person singular subjects (he/she/it), add 's' or 'es' to the verb in present simple tense."
+  },
+  {
+    "id": 2,
+    "hindiQuestion": "मैं कल दिल्ली जाऊंगा।",
+    "options": [
+      "I will go to Delhi tomorrow.",
+      "I go to Delhi tomorrow.",
+      "I am going Delhi tomorrow.",
+      "I went to Delhi tomorrow."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'will + base verb' for future tense. Also, use 'to' before place names when indicating direction."
+  },
+  {
+    "id": 3,
+    "hindiQuestion": "बच्चे पार्क में खेल रहे हैं।",
+    "options": [
+      "Children is playing in the park.",
+      "Children are playing in the park.",
+      "Children playing in the park.",
+      "Children plays in the park."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'are + verb+ing' for plural subjects in present continuous tense."
+  },
+  {
+    "id": 4,
+    "hindiQuestion": "मेरे पास एक कार है।",
+    "options": [
+      "I has a car.",
+      "I am having a car.",
+      "I had a car.",
+      "I have a car."
+    ],
+    "correctIndex": 3,
+    "grammarHint": "Use 'have' with first person (I) and 'has' with third person singular (he/she/it)."
+  },
+  {
+    "id": 5,
+    "hindiQuestion": "वे कल यहाँ आएंगे।",
+    "options": [
+      "They will comes here tomorrow.",
+      "They will come here tomorrow.",
+      "They comes here tomorrow.",
+      "They coming here tomorrow."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "After 'will', always use the base form of the verb (without 's' or 'es')."
+  },
+  {
+    "id": 6,
+    "hindiQuestion": "मैं अंग्रेजी सीख रहा हूँ।",
+    "options": [
+      "I learning English.",
+      "I learn English.",
+      "I am learning English.",
+      "I learned English."
+    ],
+    "correctIndex": 2,
+    "grammarHint": "Use 'am + verb+ing' for first person present continuous tense."
+  },
+  {
+    "id": 7,
+    "hindiQuestion": "बारिश हो रही है।",
+    "options": [
+      "It is raining.",
+      "It raining.",
+      "It rain.",
+      "It rained."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'is + verb+ing' for present continuous tense with singular subjects."
+  },
+  {
+    "id": 8,
+    "hindiQuestion": "वह बहुत तेज़ दौड़ता है।",
+    "options": [
+      "He run very fast.",
+      "He runs very fast.",
+      "He running very fast.",
+      "He ran very fast."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Add 's' to verbs with third-person singular subjects in present tense."
+  },
+  {
+    "id": 9,
+    "hindiQuestion": "हम कल फिल्म देखने जा रहे हैं।",
+    "options": [
+      "We going to watch a movie tomorrow.",
+      "We will going to watch a movie tomorrow.",
+      "We go to watch a movie tomorrow.",
+      "We are going to watch a movie tomorrow."
+    ],
+    "correctIndex": 3,
+    "grammarHint": "Use 'are going to + base verb' for planned future actions."
+  },
+  {
+    "id": 10,
+    "hindiQuestion": "उसके पास दो बिल्लियाँ हैं।",
+    "options": [
+      "She have two cats.",
+      "She has two cats.",
+      "She having two cats.",
+      "She had two cats."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'has' with third-person singular subjects (he/she/it)."
+  },
+  {
+    "id": 11,
+    "hindiQuestion": "मैं रोज़ सुबह योग करता हूँ।",
+    "options": [
+      "I does yoga every morning.",
+      "I do yoga every morning.",
+      "I doing yoga every morning.",
+      "I did yoga every morning."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'do' with first person (I) in present tense."
+  },
+  {
+    "id": 12,
+    "hindiQuestion": "वह कल नहीं आया था।",
+    "options": [
+      "He did not come yesterday.",
+      "He does not come yesterday.",
+      "He do not come yesterday.",
+      "He not come yesterday."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'did not + base verb' for negative past tense."
+  },
+  {
+    "id": 13,
+    "hindiQuestion": "मेरी बहन डॉक्टर है।",
+    "options": [
+      "My sister are a doctor.",
+      "My sister be a doctor.",
+      "My sister being a doctor.",
+      "My sister is a doctor."
+    ],
+    "correctIndex": 3,
+    "grammarHint": "Use 'is' with singular subjects and 'a' before professions."
+  },
+  {
+    "id": 14,
+    "hindiQuestion": "हमने अपना गृहकार्य पूरा कर लिया है।",
+    "options": [
+      "We has completed our homework.",
+      "We have completed our homework.",
+      "We completed our homework.",
+      "We completing our homework."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'have + past participle' with plural subjects in present perfect tense."
+  },
+  {
+    "id": 15,
+    "hindiQuestion": "वे बाज़ार जा रहे हैं।",
+    "options": [
+      "They going to market.",
+      "They go to market.",
+      "They goes to market.",
+      "They are going to the market."
+    ],
+    "correctIndex": 3,
+    "grammarHint": "Use 'are + verb+ing' for plural subjects in present continuous, and 'the' before specific places."
+  },
+  {
+    "id": 16,
+    "hindiQuestion": "मैं कल से बीमार हूँ।",
+    "options": [
+      "I am sick since yesterday.",
+      "I have been sick since yesterday.",
+      "I was sick since yesterday.",
+      "I being sick since yesterday."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'have been + adjective' with 'since' for states continuing from past to present."
+  },
+  {
+    "id": 17,
+    "hindiQuestion": "क्या तुमने अपना काम किया है?",
+    "options": [
+      "Did you do your work?",
+      "Have you done your work?",
+      "Do you do your work?",
+      "Are you doing your work?"
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'Have you + past participle' for present perfect questions."
+  },
+  {
+    "id": 18,
+    "hindiQuestion": "वह हमेशा सच बोलता है।",
+    "options": [
+      "He always speak the truth.",
+      "He always speaks the truth.",
+      "He always speaking the truth.",
+      "He always spoke the truth."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Add 's' to verbs with third-person singular subjects, and use 'the' before abstract nouns like 'truth'."
+  },
+  {
+    "id": 19,
+    "hindiQuestion": "मैं अभी खाना खा रहा हूँ।",
+    "options": [
+      "I eating food now.",
+      "I eat food now.",
+      "I ate food now.",
+      "I am eating food now."
+    ],
+    "correctIndex": 3,
+    "grammarHint": "Use 'am + verb+ing' for first person present continuous tense."
+  },
+  {
+    "id": 20,
+    "hindiQuestion": "उन्होंने एक नया घर खरीदा है।",
+    "options": [
+      "They has bought a new house.",
+      "They have bought a new house.",
+      "They bought a new house.",
+      "They buying a new house."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'have + past participle' with plural subjects in present perfect tense."
+  },
+  {
+    "id": 21,
+    "hindiQuestion": "बच्चा रो रहा है।",
+    "options": [
+      "The child crying.",
+      "The child cry.",
+      "The child is crying.",
+      "The child cried."
+    ],
+    "correctIndex": 2,
+    "grammarHint": "Use 'is + verb+ing' for singular subjects in present continuous tense."
+  },
+  {
+    "id": 22,
+    "hindiQuestion": "मैं कल तुमसे मिलूंगा।",
+    "options": [
+      "I will meet you tomorrow.",
+      "I meet you tomorrow.",
+      "I am meeting you tomorrow.",
+      "I met you tomorrow."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'will + base verb' for simple future tense."
+  },
+  {
+    "id": 23,
+    "hindiQuestion": "वह अपनी माँ से बात कर रहा है।",
+    "options": [
+      "He talking to his mother.",
+      "He talk to his mother.",
+      "He talks to his mother.",
+      "He is talking to his mother."
+    ],
+    "correctIndex": 3,
+    "grammarHint": "Use 'is + verb+ing' for third-person singular in present continuous tense."
+  },
+  {
+    "id": 24,
+    "hindiQuestion": "हमारे पास समय नहीं है।",
+    "options": [
+      "We don't have time.",
+      "We doesn't have time.",
+      "We not have time.",
+      "We haven't time."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'don't' with plural subjects for negative present tense."
+  },
+  {
+    "id": 25,
+    "hindiQuestion": "वे कल दिल्ली गए थे।",
+    "options": [
+      "They go to Delhi yesterday.",
+      "They went to Delhi yesterday.",
+      "They going to Delhi yesterday.",
+      "They gone to Delhi yesterday."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use past tense 'went' for completed actions in the past."
+  },
+  {
+    "id": 26,
+    "hindiQuestion": "मेरा भाई बहुत अच्छा गाता है।",
+    "options": [
+      "My brother sing very well.",
+      "My brother sings very well.",
+      "My brother singing very well.",
+      "My brother sang very well."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Add 's' to verbs with third-person singular subjects in present tense."
+  },
+  {
+    "id": 27,
+    "hindiQuestion": "क्या तुम कल आओगे?",
+    "options": [
+      "Will you come tomorrow?",
+      "Do you come tomorrow?",
+      "Are you come tomorrow?",
+      "Did you come tomorrow?"
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'Will you + base verb' for future tense questions."
+  },
+  {
+    "id": 28,
+    "hindiQuestion": "उसने मुझे एक पत्र लिखा।",
+    "options": [
+      "He write me a letter.",
+      "He wrote me a letter.",
+      "He writing me a letter.",
+      "He written me a letter."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use past tense 'wrote' for completed actions in the past."
+  },
+  {
+    "id": 29,
+    "hindiQuestion": "वह कल यहाँ नहीं था।",
+    "options": [
+      "He was not here yesterday.",
+      "He is not here yesterday.",
+      "He not here yesterday.",
+      "He were not here yesterday."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'was not' for singular subjects in past tense negative."
+  },
+  {
+    "id": 30,
+    "hindiQuestion": "हम रोज़ पार्क में टहलते हैं।",
+    "options": [
+      "We walks in the park daily.",
+      "We walk in the park daily.",
+      "We walking in the park daily.",
+      "We walked in the park daily."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use base form of verb with plural subjects in present tense."
+  },
+  {
+    "id": 31,
+    "hindiQuestion": "उसके पास एक लाल कार है।",
+    "options": [
+      "She have a red car.",
+      "She having a red car.",
+      "She had a red car.",
+      "She has a red car."
+    ],
+    "correctIndex": 3,
+    "grammarHint": "Use 'has' with third-person singular subjects in present tense."
+  },
+  {
+    "id": 32,
+    "hindiQuestion": "मैंने अपना काम समाप्त कर दिया है।",
+    "options": [
+      "I have finished my work.",
+      "I has finished my work.",
+      "I finished my work.",
+      "I finishing my work."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'have + past participle' with first person in present perfect tense."
+  },
+  {
+    "id": 33,
+    "hindiQuestion": "बच्चे बगीचे में खेल रहे हैं।",
+    "options": [
+      "Children is playing in the garden.",
+      "Children are playing in the garden.",
+      "Children playing in the garden.",
+      "Children plays in the garden."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'are + verb+ing' for plural subjects in present continuous tense."
+  },
+  {
+    "id": 34,
+    "hindiQuestion": "यदि मैं अमीर होता, तो मैं एक बड़ा घर खरीदता।",
+    "options": [
+      "If I was rich, I will buy a big house.",
+      "If I were rich, I would buy a big house.",
+      "If I am rich, I buy a big house.",
+      "If I will be rich, I would buy a big house."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'were' (not 'was') in hypothetical conditions and 'would' in the result clause."
+  },
+  {
+    "id": 35,
+    "hindiQuestion": "जब तक वह नहीं आएगा, मैं यहाँ रहूंगा।",
+    "options": [
+      "Until he comes, I will stay here.",
+      "Until he will come, I will stay here.",
+      "Until he came, I will stay here.",
+      "Until he is coming, I will stay here."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use present tense after 'until' when referring to future events."
+  },
+  {
+    "id": 36,
+    "hindiQuestion": "मुझे लगता है कि वह सही कह रहा है।",
+    "options": [
+      "I think that he says right.",
+      "I think that he is saying right.",
+      "I think he is right.",
+      "I am thinking he is right."
+    ],
+    "correctIndex": 2,
+    "grammarHint": "Use 'I think' (not 'I am thinking') for opinions, and 'he is right' is more natural than 'he is saying right'."
+  },
+  {
+    "id": 37,
+    "hindiQuestion": "क्या आपने कभी ताजमहल देखा है?",
+    "options": [
+      "Did you ever see the Taj Mahal?",
+      "Have you ever seen the Taj Mahal?",
+      "Do you ever see the Taj Mahal?",
+      "Are you ever seeing the Taj Mahal?"
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use present perfect with 'ever' for life experiences."
+  },
+  {
+    "id": 38,
+    "hindiQuestion": "वह तब से यहाँ काम कर रहा है जब से कॉलेज खत्म हुआ।",
+    "options": [
+      "He works here since college finished.",
+      "He is working here since college finished.",
+      "He has been working here since college finished.",
+      "He was working here since college finished."
+    ],
+    "correctIndex": 2,
+    "grammarHint": "Use present perfect continuous with 'since' for actions continuing from past to present."
+  },
+  {
+    "id": 39,
+    "hindiQuestion": "अगर तुमने मेहनत की होती, तो तुम पास हो गए होते।",
+    "options": [
+      "If you worked hard, you would pass.",
+      "If you had worked hard, you would have passed.",
+      "If you work hard, you will pass.",
+      "If you have worked hard, you would pass."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use past perfect in the 'if' clause and 'would have + past participle' for unreal past conditions."
+  },
+  {
+    "id": 40,
+    "hindiQuestion": "मैं चाहता हूँ कि वह यहाँ आए।",
+    "options": [
+      "I want that he comes here.",
+      "I want him to come here.",
+      "I want he comes here.",
+      "I am wanting him to come here."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'want + object + to + infinitive' structure, not 'want that'."
+  },
+  {
+    "id": 41,
+    "hindiQuestion": "जितना अधिक तुम पढ़ोगे, उतना अधिक तुम सीखोगे।",
+    "options": [
+      "The more you read, the more you learn.",
+      "The more you will read, the more you will learn.",
+      "More you read, more you learn.",
+      "As much you read, as much you learn."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'the more..., the more...' structure for comparative correlations."
+  },
+  {
+    "id": 42,
+    "hindiQuestion": "मुझे खुशी है कि आप आ गए।",
+    "options": [
+      "I am happy that you came.",
+      "I am happy that you have come.",
+      "I am happy you are coming.",
+      "I happy that you came."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use present perfect to show completed action with present relevance."
+  },
+  {
+    "id": 43,
+    "hindiQuestion": "वह इतना थका हुआ था कि वह खड़ा नहीं हो सकता था।",
+    "options": [
+      "He was so tired that he cannot stand.",
+      "He was so tired that he could not stand.",
+      "He was too tired that he could not stand.",
+      "He was very tired that he could not stand."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'so...that' for result clauses and maintain past tense consistency with 'could not'."
+  },
+  {
+    "id": 44,
+    "hindiQuestion": "मैं चाहता हूँ कि काश मैं उड़ सकता।",
+    "options": [
+      "I wish I can fly.",
+      "I wish I could fly.",
+      "I hope I can fly.",
+      "I want I could fly."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'I wish + past tense' for impossible or unlikely wishes."
+  },
+  {
+    "id": 45,
+    "hindiQuestion": "उसे अंग्रेजी बोलने में कठिनाई होती है।",
+    "options": [
+      "He has difficulty to speak English.",
+      "He has difficulty in speaking English.",
+      "He has difficulty for speaking English.",
+      "He has difficulty on speaking English."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'difficulty in + gerund' structure."
+  },
+  {
+    "id": 46,
+    "hindiQuestion": "मैं तुम्हें सुझाव देता हूँ कि तुम डॉक्टर के पास जाओ।",
+    "options": [
+      "I suggest you to go to the doctor.",
+      "I suggest that you go to the doctor.",
+      "I suggest you going to the doctor.",
+      "I am suggesting you to go to the doctor."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'suggest + that clause' or 'suggest + gerund', not 'suggest + to infinitive'."
+  },
+  {
+    "id": 47,
+    "hindiQuestion": "वह न केवल बुद्धिमान है बल्कि मेहनती भी है।",
+    "options": [
+      "He is not only intelligent but also hardworking.",
+      "He is not only intelligent but hardworking also.",
+      "He is not only intelligent and also hardworking.",
+      "Not only he is intelligent but also hardworking."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'not only...but also' structure with parallel construction."
+  },
+  {
+    "id": 48,
+    "hindiQuestion": "मुझे डर है कि कहीं बारिश न हो जाए।",
+    "options": [
+      "I fear that it may rain.",
+      "I am afraid lest it should rain.",
+      "I am afraid that it might rain.",
+      "I fear lest it may rain."
+    ],
+    "correctIndex": 2,
+    "grammarHint": "Use 'afraid that + might' for expressing fear about future possibilities."
+  },
+  {
+    "id": 49,
+    "hindiQuestion": "वह बहुत गरीब है लेकिन ईमानदार है।",
+    "options": [
+      "Though he is very poor but he is honest.",
+      "He is very poor but honest.",
+      "Although he is very poor but he is honest.",
+      "Despite he is very poor, he is honest."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Don't use 'but' with 'though' or 'although'. Use either 'though/although' or 'but', not both."
+  },
+  {
+    "id": 50,
+    "hindiQuestion": "जब मैं छोटा था, मैं रोज़ क्रिकेट खेलता था।",
+    "options": [
+      "When I was small, I played cricket daily.",
+      "When I was small, I used to play cricket daily.",
+      "When I was small, I was playing cricket daily.",
+      "When I was small, I would play cricket daily."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'used to' for past habits that no longer continue."
+  },
+  {
+    "id": 51,
+    "hindiQuestion": "मैं उससे मिलने से पहले ही वह चला गया था।",
+    "options": [
+      "He left before I met him.",
+      "He had left before I met him.",
+      "He was leaving before I met him.",
+      "He has left before I met him."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use past perfect for the earlier of two past actions."
+  },
+  {
+    "id": 52,
+    "hindiQuestion": "वह इतना अमीर है कि वह कुछ भी खरीद सकता है।",
+    "options": [
+      "He is so rich that he can buy anything.",
+      "He is too rich that he can buy anything.",
+      "He is very rich that he can buy anything.",
+      "He is such rich that he can buy anything."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'so + adjective + that' for result clauses."
+  },
+  {
+    "id": 53,
+    "hindiQuestion": "मुझे लगता है कि वह कल आएगा।",
+    "options": [
+      "I think he will come tomorrow.",
+      "I am thinking he will come tomorrow.",
+      "I think he comes tomorrow.",
+      "I think he is coming tomorrow."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'think' (not 'am thinking') for opinions and 'will' for future predictions."
+  },
+  {
+    "id": 54,
+    "hindiQuestion": "क्या आप मुझे बता सकते हैं कि स्टेशन कहाँ है?",
+    "options": [
+      "Can you tell me where is the station?",
+      "Can you tell me where the station is?",
+      "Can you tell me where does the station is?",
+      "Can you tell me that where is the station?"
+    ],
+    "correctIndex": 1,
+    "grammarHint": "In indirect questions, use statement word order, not question word order."
+  },
+  {
+    "id": 55,
+    "hindiQuestion": "वह कहता है कि वह कल आएगा।",
+    "options": [
+      "He says that he will come tomorrow.",
+      "He says that he would come tomorrow.",
+      "He is saying that he will come tomorrow.",
+      "He said that he will come tomorrow."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "When reporting verb is in present tense, don't change the tense of reported speech."
+  },
+  {
+    "id": 56,
+    "hindiQuestion": "मैं चाहूंगा कि आप यहाँ आएं।",
+    "options": [
+      "I would like you to come here.",
+      "I would like that you come here.",
+      "I will like you to come here.",
+      "I like you to come here."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'would like + object + to infinitive' for polite requests."
+  },
+  {
+    "id": 57,
+    "hindiQuestion": "वह बहुत तेज़ दौड़ता है, है न?",
+    "options": [
+      "He runs very fast, isn't he?",
+      "He runs very fast, doesn't he?",
+      "He runs very fast, don't he?",
+      "He runs very fast, isn't it?"
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use auxiliary verb in question tags. For 'runs' (present simple), use 'doesn't'."
+  },
+  {
+    "id": 58,
+    "hindiQuestion": "मैं तुम्हारी मदद करने को तैयार हूँ।",
+    "options": [
+      "I am ready for helping you.",
+      "I am ready to help you.",
+      "I am ready in helping you.",
+      "I am ready of helping you."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'ready to + infinitive' structure."
+  },
+  {
+    "id": 59,
+    "hindiQuestion": "वह न तो अच्छा है और न ही बुरा।",
+    "options": [
+      "He is neither good and nor bad.",
+      "He is neither good nor bad.",
+      "He is either good nor bad.",
+      "He is not good and not bad."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'neither...nor' structure for negative alternatives."
+  },
+  {
+    "id": 60,
+    "hindiQuestion": "मुझे खुशी होगी यदि आप आएंगे।",
+    "options": [
+      "I will be happy if you will come.",
+      "I will be happy if you come.",
+      "I would be happy if you will come.",
+      "I am happy if you come."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use present tense in 'if' clause when main clause is future."
+  },
+  {
+    "id": 61,
+    "hindiQuestion": "वह इतना ऊंचा है कि वह छत को छू सकता है।",
+    "options": [
+      "He is so tall that he can touch the ceiling.",
+      "He is too tall that he can touch the ceiling.",
+      "He is such tall that he can touch the ceiling.",
+      "He is very tall that he can touch the ceiling."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'so + adjective + that' for result clauses showing ability."
+  },
+  {
+    "id": 62,
+    "hindiQuestion": "मैं उसे तब से जानता हूँ जब वह बच्चा था।",
+    "options": [
+      "I know him since he was a child.",
+      "I have known him since he was a child.",
+      "I am knowing him since he was a child.",
+      "I knew him since he was a child."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use present perfect with 'since' for states continuing from past to present."
+  },
+  {
+    "id": 63,
+    "hindiQuestion": "वह कहता है कि वह बीमार था।",
+    "options": [
+      "He says that he was ill.",
+      "He says that he is ill.",
+      "He said that he was ill.",
+      "He is saying that he was ill."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "When reporting verb is present but reported event is past, keep past tense."
+  },
+  {
+    "id": 64,
+    "hindiQuestion": "मुझे आश्चर्य है कि वह इतनी जल्दी कैसे आ गया।",
+    "options": [
+      "I wonder how did he come so early.",
+      "I wonder how he came so early.",
+      "I am wondering how he came so early.",
+      "I wonder that how he came so early."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "In indirect questions with 'wonder', use statement word order."
+  },
+  {
+    "id": 65,
+    "hindiQuestion": "वह बहुत मेहनत करता है ताकि वह सफल हो सके।",
+    "options": [
+      "He works hard so that he can succeed.",
+      "He works hard so that he could succeed.",
+      "He works hard for he can succeed.",
+      "He works hard in order he can succeed."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'so that + can/may' for purpose clauses in present context."
+  },
+  {
+    "id": 66,
+    "hindiQuestion": "जब तक आप कोशिश नहीं करेंगे, आप सफल नहीं हो सकते।",
+    "options": [
+      "Unless you try, you cannot succeed.",
+      "Until you try, you cannot succeed.",
+      "If you don't try, you cannot succeed.",
+      "Without you try, you cannot succeed."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'unless' (meaning 'if not') for negative conditions."
+  },
+  {
+    "id": 67,
+    "hindiQuestion": "वह इतना गुस्से में था कि वह कुछ नहीं बोल सका।",
+    "options": [
+      "He was so angry that he could not speak anything.",
+      "He was too angry that he could not speak anything.",
+      "He was very angry that he could not speak anything.",
+      "He was such angry that he could not speak anything."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'so + adjective + that' for result clauses."
+  },
+  {
+    "id": 68,
+    "hindiQuestion": "मैं चाहता हूँ कि काश मैं अमीर होता।",
+    "options": [
+      "I wish I am rich.",
+      "I wish I was rich.",
+      "I wish I were rich.",
+      "I hope I were rich."
+    ],
+    "correctIndex": 2,
+    "grammarHint": "Use 'I wish + were' (subjunctive) for unreal present wishes."
+  },
+  {
+    "id": 69,
+    "hindiQuestion": "वह न केवल गाता है बल्कि नाचता भी है।",
+    "options": [
+      "He not only sings but also dances.",
+      "He not only sings but dances also.",
+      "Not only he sings but also dances.",
+      "He not only sings and also dances."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'not only...but also' with parallel structure."
+  },
+  {
+    "id": 70,
+    "hindiQuestion": "मुझे लगता है कि वह झूठ बोल रहा है।",
+    "options": [
+      "I think he is lying.",
+      "I am thinking he is lying.",
+      "I think he lies.",
+      "I think that he is lying."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'think' (not 'am thinking') for opinions. 'That' is optional."
+  },
+  {
+    "id": 71,
+    "hindiQuestion": "यदि मैं तुम्हारी जगह होता, तो मैं यह काम नहीं करता।",
+    "options": [
+      "If I was you, I would not do this work.",
+      "If I were you, I would not do this work.",
+      "If I am you, I will not do this work.",
+      "If I will be you, I would not do this work."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'If I were you' (subjunctive) for hypothetical advice."
+  },
+  {
+    "id": 72,
+    "hindiQuestion": "वह कहता है कि वह कल दिल्ली जाएगा।",
+    "options": [
+      "He says that he will go to Delhi tomorrow.",
+      "He says that he would go to Delhi tomorrow.",
+      "He said that he will go to Delhi tomorrow.",
+      "He is saying that he will go to Delhi tomorrow."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "When reporting verb is present tense, don't change future tense in reported speech."
+  },
+  {
+    "id": 73,
+    "hindiQuestion": "मुझे खुशी है कि तुमने परीक्षा पास कर ली।",
+    "options": [
+      "I am glad that you passed the exam.",
+      "I am glad that you have passed the exam.",
+      "I am glad you are passing the exam.",
+      "I glad that you passed the exam."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use present perfect for recently completed actions with present relevance."
+  },
+  {
+    "id": 74,
+    "hindiQuestion": "वह बहुत बीमार है इसलिए वह स्कूल नहीं जा सकता।",
+    "options": [
+      "He is too ill to go to school.",
+      "He is so ill that he cannot go to school.",
+      "He is very ill so he cannot go to school.",
+      "All of the above are correct."
+    ],
+    "correctIndex": 3,
+    "grammarHint": "Multiple structures can express the same meaning: 'too...to', 'so...that', and 'very...so'."
+  },
+  {
+    "id": 75,
+    "hindiQuestion": "क्या आपको पता है कि वह कहाँ रहता है?",
+    "options": [
+      "Do you know where does he live?",
+      "Do you know where he lives?",
+      "Do you know that where he lives?",
+      "Do you know where is he living?"
+    ],
+    "correctIndex": 1,
+    "grammarHint": "In indirect questions, use statement word order after question words."
+  },
+  {
+    "id": 76,
+    "hindiQuestion": "वह इतना धीमा चलता है कि वह कभी समय पर नहीं पहुंचता।",
+    "options": [
+      "He walks so slowly that he never reaches on time.",
+      "He walks too slowly that he never reaches on time.",
+      "He walks very slowly that he never reaches on time.",
+      "He walks such slowly that he never reaches on time."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'so + adverb + that' for result clauses with adverbs."
+  },
+  {
+    "id": 77,
+    "hindiQuestion": "मैं चाहता हूँ कि तुम सफल हो जाओ।",
+    "options": [
+      "I want that you succeed.",
+      "I want you to succeed.",
+      "I want you succeed.",
+      "I am wanting you to succeed."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'want + object + to infinitive', not 'want that'."
+  },
+  {
+    "id": 78,
+    "hindiQuestion": "वह न तो पढ़ता है और न ही लिखता है।",
+    "options": [
+      "He neither reads and nor writes.",
+      "He neither reads nor writes.",
+      "He either reads nor writes.",
+      "He doesn't read and doesn't write."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'neither...nor' for negative alternatives."
+  },
+  {
+    "id": 79,
+    "hindiQuestion": "मुझे डर है कि कहीं वह न आ जाए।",
+    "options": [
+      "I am afraid lest he should come.",
+      "I am afraid that he might come.",
+      "I fear that he may come.",
+      "All of the above are correct."
+    ],
+    "correctIndex": 3,
+    "grammarHint": "Multiple structures can express fear: 'lest...should', 'that...might', 'that...may'."
+  },
+  {
+    "id": 80,
+    "hindiQuestion": "जब मैं बच्चा था, मैं रोज़ पार्क जाता था।",
+    "options": [
+      "When I was a child, I went to the park daily.",
+      "When I was a child, I used to go to the park daily.",
+      "When I was a child, I was going to the park daily.",
+      "When I was a child, I would go to the park daily."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'used to' for past habits that no longer continue."
+  },
+  {
+    "id": 81,
+    "hindiQuestion": "वह कहता है कि उसने यह काम किया है।",
+    "options": [
+      "He says that he did this work.",
+      "He says that he has done this work.",
+      "He said that he has done this work.",
+      "He is saying that he did this work."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "When reporting verb is present, keep present perfect in reported speech."
+  },
+  {
+    "id": 82,
+    "hindiQuestion": "यदि तुमने मेहनत की होती, तो तुम सफल हो गए होते।",
+    "options": [
+      "If you worked hard, you would succeed.",
+      "If you had worked hard, you would have succeeded.",
+      "If you have worked hard, you would succeed.",
+      "If you work hard, you will succeed."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use past perfect + would have + past participle for unreal past conditions."
+  },
+  {
+    "id": 83,
+    "hindiQuestion": "वह इतना अच्छा गाता है कि सभी उसकी प्रशंसा करते हैं।",
+    "options": [
+      "He sings so well that everyone praises him.",
+      "He sings too well that everyone praises him.",
+      "He sings very well that everyone praises him.",
+      "He sings such well that everyone praises him."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'so + adverb + that' for result clauses with adverbs."
+  },
+  {
+    "id": 84,
+    "hindiQuestion": "मुझे आश्चर्य है कि वह इतनी जल्दी कैसे पहुंच गया।",
+    "options": [
+      "I wonder how did he reach so early.",
+      "I wonder how he reached so early.",
+      "I am wondering how he reached so early.",
+      "I wonder that how he reached so early."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "In indirect questions with 'wonder', use statement word order."
+  },
+  {
+    "id": 85,
+    "hindiQuestion": "वह कहता है कि वह कल नहीं आएगा।",
+    "options": [
+      "He says that he will not come tomorrow.",
+      "He says that he would not come tomorrow.",
+      "He said that he will not come tomorrow.",
+      "He is saying that he will not come tomorrow."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "When reporting verb is present, don't change future tense in reported speech."
+  },
+  {
+    "id": 86,
+    "hindiQuestion": "मैं चाहता हूँ कि काश मैंने उससे बात की होती।",
+    "options": [
+      "I wish I talked to him.",
+      "I wish I had talked to him.",
+      "I wish I have talked to him.",
+      "I hope I had talked to him."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'I wish + past perfect' for regrets about past actions."
+  },
+  {
+    "id": 87,
+    "hindiQuestion": "वह न केवल बुद्धिमान है बल्कि ईमानदार भी है।",
+    "options": [
+      "He is not only intelligent but also honest.",
+      "He is not only intelligent but honest also.",
+      "Not only he is intelligent but also honest.",
+      "He is not only intelligent and also honest."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'not only...but also' with parallel structure."
+  },
+  {
+    "id": 88,
+    "hindiQuestion": "यदि मैं पक्षी होता, तो मैं आसमान में उड़ता।",
+    "options": [
+      "If I was a bird, I would fly in the sky.",
+      "If I were a bird, I would fly in the sky.",
+      "If I am a bird, I will fly in the sky.",
+      "If I will be a bird, I would fly in the sky."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use 'were' (subjunctive) in hypothetical conditions about impossible situations."
+  },
+  {
+    "id": 89,
+    "hindiQuestion": "वह कहता है कि उसे अंग्रेजी आती है।",
+    "options": [
+      "He says that he knows English.",
+      "He says that he is knowing English.",
+      "He said that he knows English.",
+      "He is saying that he knows English."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'know' (not 'is knowing') for knowledge and skills."
+  },
+  {
+    "id": 90,
+    "hindiQuestion": "मुझे खुशी होगी यदि तुम मेरी मदद करोगे।",
+    "options": [
+      "I will be happy if you will help me.",
+      "I will be happy if you help me.",
+      "I would be happy if you will help me.",
+      "I am happy if you help me."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use present tense in 'if' clause when main clause is future."
+  },
+  {
+    "id": 91,
+    "hindiQuestion": "वह इतना गरीब है कि वह दो वक्त का खाना नहीं खा सकता।",
+    "options": [
+      "He is so poor that he cannot have two meals a day.",
+      "He is too poor that he cannot have two meals a day.",
+      "He is very poor that he cannot have two meals a day.",
+      "He is such poor that he cannot have two meals a day."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'so + adjective + that' for result clauses."
+  },
+  {
+    "id": 92,
+    "hindiQuestion": "मैं उससे तब से नहीं मिला जब से वह यहाँ से गया।",
+    "options": [
+      "I have not met him since he left from here.",
+      "I have not met him since he left here.",
+      "I did not meet him since he left here.",
+      "I am not meeting him since he left here."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use present perfect with 'since' and don't use 'from' with 'left'."
+  },
+  {
+    "id": 93,
+    "hindiQuestion": "वह कहता है कि वह रोज़ व्यायाम करता है।",
+    "options": [
+      "He says that he exercises daily.",
+      "He says that he is exercising daily.",
+      "He said that he exercises daily.",
+      "He is saying that he exercises daily."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "When reporting verb is present, keep present tense for habitual actions."
+  },
+  {
+    "id": 94,
+    "hindiQuestion": "मुझे आश्चर्य है कि वह क्यों नहीं आया।",
+    "options": [
+      "I wonder why didn't he come.",
+      "I wonder why he didn't come.",
+      "I am wondering why he didn't come.",
+      "I wonder that why he didn't come."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "In indirect questions with 'wonder', use statement word order."
+  },
+  {
+    "id": 95,
+    "hindiQuestion": "वह बहुत मेहनत करता है ताकि वह अमीर बन सके।",
+    "options": [
+      "He works hard so that he can become rich.",
+      "He works hard so that he could become rich.",
+      "He works hard for he can become rich.",
+      "He works hard in order he can become rich."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'so that + can/may' for purpose clauses in present context."
+  },
+  {
+    "id": 96,
+    "hindiQuestion": "जब तक तुम पढ़ाई नहीं करोगे, तुम पास नहीं हो सकते।",
+    "options": [
+      "Unless you study, you cannot pass.",
+      "Until you study, you cannot pass.",
+      "If you don't study, you cannot pass.",
+      "Without you study, you cannot pass."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'unless' (meaning 'if not') for negative conditions."
+  },
+  {
+    "id": 97,
+    "hindiQuestion": "वह इतना खुश था कि वह नाचने लगा।",
+    "options": [
+      "He was so happy that he started dancing.",
+      "He was too happy that he started dancing.",
+      "He was very happy that he started dancing.",
+      "He was such happy that he started dancing."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'so + adjective + that' for result clauses."
+  },
+  {
+    "id": 98,
+    "hindiQuestion": "मैं चाहता हूँ कि काश मैं उसकी जगह होता।",
+    "options": [
+      "I wish I am in his place.",
+      "I wish I was in his place.",
+      "I wish I were in his place.",
+      "I hope I were in his place."
+    ],
+    "correctIndex": 2,
+    "grammarHint": "Use 'I wish + were' (subjunctive) for unreal present wishes."
+  },
+  {
+    "id": 99,
+    "hindiQuestion": "वह न केवल पढ़ता है बल्कि पढ़ाता भी है।",
+    "options": [
+      "He not only studies but also teaches.",
+      "He not only studies but teaches also.",
+      "Not only he studies but also teaches.",
+      "He not only studies and also teaches."
+    ],
+    "correctIndex": 0,
+    "grammarHint": "Use 'not only...but also' with parallel structure."
+  },
+  {
+    "id": 100,
+    "hindiQuestion": "यदि तुम समय पर आते, तो हम फिल्म देख सकते थे।",
+    "options": [
+      "If you came on time, we could watch the movie.",
+      "If you had come on time, we could have watched the movie.",
+      "If you come on time, we can watch the movie.",
+      "If you would come on time, we could watch the movie."
+    ],
+    "correctIndex": 1,
+    "grammarHint": "Use past perfect + could have + past participle for unreal past conditions."
+  }
+]
